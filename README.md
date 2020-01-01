@@ -12,5 +12,5 @@ How to use the program:
 Locate your discord token, watch the following video if your unsure how:
 https://www.youtube.com/watch?v=tI1lzqzLQCs
 
-Then replace the code in the main.py 
+Then replace the code in the main.py,
 token = "Token" #Replace with discord token
