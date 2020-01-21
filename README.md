@@ -10,8 +10,8 @@ The program reads through all messages, looking for any and all discord invites,
 to join the server through discord's APIs.
 
 ## ❓How to use the program:
-Locate your discord token, watch the following video if your unsure how:
-https://www.youtube.com/watch?v=tI1lzqzLQCs
+Locate your discord token, visit the following video if your unsure how:
+https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
 
 Then replace the code in the main.py,
-token = "Token" #Replace with discord token
+token = "Token" #Replace with discord bot token
